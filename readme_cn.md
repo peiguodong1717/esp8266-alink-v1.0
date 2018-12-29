@@ -1,4 +1,4 @@
-[[EN]](readme_en.md) 
+[[EN]](readme_en.md) 2018/12/29
 
 # 1. Alink 概述
 本文档为阿里云 Alink V1.0 的使用示例，可帮助您了解 Alink 的配网、升级及数据传输等功能。
